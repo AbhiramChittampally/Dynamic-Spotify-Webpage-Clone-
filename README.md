@@ -76,7 +76,7 @@ project/
 
 ---
 
-## 📸 Screenshots (Add Yours!)
+## 📸 Screenshots 
 <img width="1914" height="1070" alt="image" src="https://github.com/user-attachments/assets/6de99d2f-6707-453f-b84c-7cb8df7590b6" />
 
 
